@@ -1,11 +1,11 @@
-## 🔑 Setup AstraDB & OpenAI API Keys
+##  Setup AstraDB & OpenAI API Keys
 
 This project requires credentials from **AstraDB** and **OpenAI** before it can run.  
 Follow the steps below to set up your environment.
 
 ---
 
-### 1️⃣ Create an AstraDB account & credentials
+### 1️ Create an AstraDB account & credentials
 
 1. Go to: [https://www.datastax.com/products/datastax-astra](https://www.datastax.com/products/datastax-astra)
 2. Sign up (or log in) and create a **Serverless database**.
@@ -17,7 +17,7 @@ Follow the steps below to set up your environment.
 
 ---
 
-### 2️⃣ Create an OpenAI account & API key
+### 2️ Create an OpenAI account & API key
 
 1. Go to: [https://platform.openai.com/docs/overview](https://platform.openai.com/docs/overview)
 2. Sign up (or log in) to your OpenAI Developer account.
@@ -26,7 +26,7 @@ Follow the steps below to set up your environment.
 
 ---
 
-### 3️⃣ Create `.env` under `Scripts/` folder
+### 3️ Create `.env` under `Scripts/` folder
 
 Inside your project, create the folder if it doesn’t exist:
 
